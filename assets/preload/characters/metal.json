@@ -1,0 +1,267 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				16,
+				5
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				-83
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				167
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-32
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				16,
+				8
+			],
+			"loop": false,
+			"anim": "singLEFT-hold",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			]
+		},
+		{
+			"offsets": [
+				21,
+				-83
+			],
+			"loop": false,
+			"anim": "singDOWN-hold",
+			"fps": 24,
+			"name": "down",
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			]
+		},
+		{
+			"offsets": [
+				26,
+				167
+			],
+			"loop": false,
+			"anim": "singUP-hold",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-31
+			],
+			"loop": false,
+			"anim": "singRIGHT-hold",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				126
+			],
+			"anim": "singLEFT-alt-loop",
+			"fps": 24,
+			"name": "enraged left",
+			"indices": [
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				91
+			],
+			"anim": "singRIGHT-alt-loop",
+			"fps": 24,
+			"name": "enraged right",
+			"indices": [
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				282
+			],
+			"anim": "singUP-alt-loop",
+			"fps": 24,
+			"name": "enraged up",
+			"indices": [
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-1
+			],
+			"anim": "singDOWN-alt-loop",
+			"fps": 24,
+			"name": "enraged down",
+			"indices": [
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "enraged idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "idle-alt-loop",
+			"fps": 24,
+			"name": "enraged idle",
+			"indices": [
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				129
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "enraged left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-1
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "enraged down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				281
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "enraged up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				91
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "enraged right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/metal",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "metal",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		19,
+		135
+	],
+	"camera_position": [
+		90,
+		-160
+	],
+	"sing_duration": 10,
+	"scale": 1
+}

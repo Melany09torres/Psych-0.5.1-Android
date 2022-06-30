@@ -1,0 +1,148 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				202,
+				-91
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "exe left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-182
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "exe down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				114
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "exe up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-34
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "exe right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "exe dance"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				202,
+				-91
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				10,
+				11
+			],
+			"name": "exe left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				-182
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				10,
+				11
+			],
+			"name": "exe down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				114
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				10,
+				11
+			],
+			"name": "exe up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-49,
+				-34
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				10,
+				11
+			],
+			"name": "exe right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11
+			],
+			"name": "exe dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ready",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		25,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5.7,
+	"scale": 1
+}
