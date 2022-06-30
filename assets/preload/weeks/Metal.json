@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"iron-bars",
+			"metal",
+			[
+				6,
+				0,
+				253
+			]
+		],
+		[
+			"speedway",
+			"metal",
+			[
+				6,
+				0,
+				253
+			]
+		],
+		[
+			"aquariam",
+			"metal",
+			[
+				6,
+				0,
+				253
+			]
+		],
+		[
+			"spineless",
+			"exe",
+			[
+				86,
+				73,
+				175
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "metal",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Vs Metal Sonic",
+	"weekName": "metal",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
