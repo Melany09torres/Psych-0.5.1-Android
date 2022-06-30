@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Monster_Assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dancers0000" x="5" y="5" width="1851" height="492"/>
+	<SubTexture name="dancers0001" x="1956" y="5" width="1851" height="492"/>
+	<SubTexture name="dancers0002" x="5" y="597" width="1851" height="492"/>
+	<SubTexture name="dancers0003" x="1956" y="597" width="1851" height="492"/>
+	<SubTexture name="dancers0004" x="5" y="1189" width="1851" height="492"/>
+	<SubTexture name="dancers0005" x="1956" y="1189" width="1851" height="492"/>
+	<SubTexture name="dancers0006" x="5" y="1781" width="1851" height="492"/>
+	<SubTexture name="dancers0007" x="1956" y="1781" width="1851" height="492"/>
+	<SubTexture name="dancers0008" x="5" y="2373" width="1851" height="492"/>
+	<SubTexture name="dancers0009" x="1956" y="2373" width="1851" height="492"/>
+	<SubTexture name="dancers0010" x="5" y="2965" width="1851" height="492"/>
+	<SubTexture name="dancers0011" x="1956" y="2965" width="1851" height="492"/>
+	<SubTexture name="dancers0012" x="5" y="3557" width="1851" height="492"/>
+	<SubTexture name="dancers0013" x="1956" y="3557" width="1851" height="492"/>
+</TextureAtlas>
